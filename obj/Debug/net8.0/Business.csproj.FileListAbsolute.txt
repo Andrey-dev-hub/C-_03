@@ -1,0 +1,14 @@
+C:\Projetos\PrimeiroProjeto\Business\bin\Debug\net8.0\Business.exe
+C:\Projetos\PrimeiroProjeto\Business\bin\Debug\net8.0\Business.deps.json
+C:\Projetos\PrimeiroProjeto\Business\bin\Debug\net8.0\Business.runtimeconfig.json
+C:\Projetos\PrimeiroProjeto\Business\bin\Debug\net8.0\Business.dll
+C:\Projetos\PrimeiroProjeto\Business\bin\Debug\net8.0\Business.pdb
+C:\Projetos\PrimeiroProjeto\Business\obj\Debug\net8.0\Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\PrimeiroProjeto\Business\obj\Debug\net8.0\Business.AssemblyInfoInputs.cache
+C:\Projetos\PrimeiroProjeto\Business\obj\Debug\net8.0\Business.AssemblyInfo.cs
+C:\Projetos\PrimeiroProjeto\Business\obj\Debug\net8.0\Business.csproj.CoreCompileInputs.cache
+C:\Projetos\PrimeiroProjeto\Business\obj\Debug\net8.0\Business.dll
+C:\Projetos\PrimeiroProjeto\Business\obj\Debug\net8.0\refint\Business.dll
+C:\Projetos\PrimeiroProjeto\Business\obj\Debug\net8.0\Business.pdb
+C:\Projetos\PrimeiroProjeto\Business\obj\Debug\net8.0\Business.genruntimeconfig.cache
+C:\Projetos\PrimeiroProjeto\Business\obj\Debug\net8.0\ref\Business.dll
